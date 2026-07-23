@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Focus Blocker",
+  "description": "Distraction blocker for YouTube that forces Subscriptions feed and blocks Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

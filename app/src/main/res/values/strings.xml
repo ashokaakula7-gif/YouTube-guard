@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YT Focus</string>
+    <string name="accessibility_service_label">YouTube Focus Blocker</string>
+    <string name="accessibility_service_description">Monitors YouTube app to automatically redirect to Subscriptions and block YouTube Shorts to minimize distractions.</string>
+</resources>
